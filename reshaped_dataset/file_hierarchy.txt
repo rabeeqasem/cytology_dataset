@@ -1,0 +1,133 @@
+Folder PATH listing for volume Windows
+Volume serial number is E2E3-FA8A
+C:.
+|   labels.csv
+|   Resultant.txt
+|   
++---HSIL_AIS
+|     
+|       frame030_fov007.png
+|       frame030_fov008.png
+|       frame030_fov009.png
+|       frame030_fov010.png
+|      		...
+|       frame030_fov015.png
+|       frame030_fov016.png
+|       frame030_fov017.png
+|       frame030_fov018.png
+|       frame030_fov019.png
+|       
++---LSIL
+|       frame031_fov000.png
+|       frame031_fov001.png
+|       frame068_fov018.png
+|       frame068_fov019.png
+|       frame069_fov000.png
+		...
+
+|       frame076_fov013.png
+|       frame076_fov014.png
+|       frame076_fov016.png
+|       frame076_fov017.png
+|       frame076_fov018.png
+|       frame076_fov019.png
+|       
++---NILM
+|       frame077_fov000.png
+|       frame077_fov001.png
+|       frame077_fov002.png
+|       frame077_fov003.png
+|      
+|     		...
+|       frame091_fov008.png
+|       frame091_fov009.png
+|       frame092_fov007.png
+|       frame092_fov008.png
+|       frame092_fov009.png
+|       
++---test
+|   +---HSIL_AIS
+|   |       frame000_fov006.png
+|   |       frame000_fov008.png
+|   |       frame000_fov009.png
+|   |       frame001_fov002.png
+
+		    ...
+
+|   |       frame029_fov018.png
+|   |       frame029_fov019.png
+|   |       frame030_fov007.png
+|   |       
+|   +---LSIL
+|   |       frame031_fov012.png
+|   |       frame031_fov017.png
+|   |       frame031_fov018.png
+|   |       frame032_fov005.png
+|   |       frame032_fov010.png
+
+		   ...	
+
+|   |       frame075_fov010.png
+|   |       frame075_fov013.png
+|   |       frame075_fov017.png
+|   |       frame076_fov001.png
+|   |       frame076_fov008.png
+|   |       frame076_fov013.png
+|   |       
+|   \---NILM
+|           frame077_fov004.png
+|           frame077_fov016.png
+|           frame079_fov003.png
+|           frame079_fov011.png
+|           frame079_fov012.png
+|           frame080_fov003.png
+		    ...
+|           frame081_fov000.png
+|           frame081_fov004.png
+|           frame090_fov005.png
+|           frame090_fov009.png
+|           frame092_fov001.png
+|           
++---train
+|   +---HSIL_AIS
+|   |       frame000_fov000.png
+|   |       frame000_fov001.png
+|   |       frame030_fov006.png
+|   |       frame030_fov008.png
+|   |       	    ...
+|   |       frame030_fov010.png
+|   |       frame030_fov011.png
+|   |       frame030_fov017.png
+|   |       frame030_fov018.png
+|   |       frame030_fov019.png
+|   |       
+|   +---LSIL
+|   |       frame031_fov000.png
+|   |       frame031_fov001.png
+|   |       frame035_fov002.png
+|   |       frame035_fov003.png
+|   |       	    ...
+|   |       frame035_fov014.png
+|   |       frame035_fov015.png
+|   |       frame035_fov016.png
+|   |       frame035_fov017.png
+|   |       
+|   \---NILM
+|           frame077_fov000.png
+|           frame077_fov001.png
+|           frame077_fov002.png
+|           frame077_fov003.png
+|           frame077_fov005.png
+|           frame077_fov006.png
+|           	   ...
+|           frame077_fov008.png
+|           frame077_fov009.png
+|           frame092_fov006.png
+|           frame092_fov007.png
+|           frame092_fov008.png
+|           frame092_fov009.png
+|           
+\---val
+    +---HSIL_AIS
+    +---LSIL
+    \---NILM

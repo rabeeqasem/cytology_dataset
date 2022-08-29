@@ -111,8 +111,8 @@ print(class_to_idx)
 
 
 train_dataset = cytology_dataset(train_image_paths,class_to_idx,train_transforms)
-valid_dataset = cytology_dataset(train_image_paths,class_to_idx,train_transforms) #test transforms are applied
-test_dataset = cytology_dataset(train_image_paths,class_to_idx,train_transforms)
+valid_dataset = cytology_dataset(valid_image_paths,class_to_idx,train_transforms) #test transforms are applied
+test_dataset = cytology_dataset(test_image_paths,class_to_idx,train_transforms)
 
 
 print('The shape of tensor for 50th image in train dataset: ',train_dataset[49][0].shape)
